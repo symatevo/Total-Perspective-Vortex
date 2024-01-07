@@ -10,3 +10,5 @@ Key aspects of the project include:
 - **Dimensionality Reduction Algorithm**: Successfully implemented an algorithm for dimensionality reduction, enhancing data processing before classification stages.
 - **Integration with scikit-learn**: Seamlessly integrated the dimensionality reduction algorithm within scikit-learn, enabling the use of its tools for advanced classification and validation of model accuracy.
 
+Project done using Python and all codes are in sinlge Jupyter notebook.
+
